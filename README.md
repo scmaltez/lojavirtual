@@ -1,2 +1,3 @@
 # lojavirtual
-Repositório de teste para loja virtual fictícia
+
+Texto alterado no repositório local
